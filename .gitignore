@@ -1,3 +1,6 @@
+# Skip data folders
+data/
+
 #File with keys and passwords 
 secrets.yaml
 secrets/
