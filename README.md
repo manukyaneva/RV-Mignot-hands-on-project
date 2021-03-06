@@ -2,11 +2,8 @@
 Hands-on project (2021)
 
 
-## Different projects are considered: 
+## The common project for everybody : Image classification
 
-* Prevision of chronologique series 
-* Image classification  (SVM or KNN can be implemented)
+In order to have more information about steps to follow for the realization of the project: 
+https://trello.com/b/EvlhNgEQ/hands-on-2021
 
-
-## Additional comment 
-This is an additional comment.
